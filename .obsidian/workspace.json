@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -140,20 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +172,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/Coaching feedback.md",
+    "source/content/My LLM usage.md",
+    "source/content/Pasted image 20260518142000.png",
+    "source/content/Pasted image 20260518141921.png",
+    "source/content/Pasted image 20260518141835.png",
+    "source/content/Pasted image 20260518141626.png",
     "source/content/index.md",
+    "source/content/The job listing.md",
+    "source/content/Longview Philanthropy ExA finalist.md",
+    "source/content/Job listing - Executive Assistant to the Office of the CEO - Longview Philanthropy.pdf",
+    "source/content/Coaching feedback.md",
     "source/content/Images/sasha - trauma.png",
     "source/content/Images/jess - turn towards.png",
     "source/quartz.config.ts.sb-12fb2676-cduYuK",
