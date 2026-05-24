@@ -7,6 +7,7 @@ aliases:
 - I wanted to make this website to give a bit more space to outline my fit for the "[Open contracting position: Executive Assistant to Aric Floyd](https://80000hours.org/2026/04/open-contracting-position-on-the-video-team-executive-assistant-to-aric-floyd/)" role!
 # Downsides first:
 - Downsides: not US-based (will be between London and Toronto) - very keen to make the hours work however!
+- Aiming to be a Chief of Staff rather than ExA, but I think this is a good jumping off point - I also have a strong sense that I'll be able to automate chunks of the role
 # About my fit for the role
 ## 1. Longview Philanthropy ExA finalist
 - I was a Longview Philanthropy "==Executive Assistant to the Office of the CEO==" finalist
@@ -29,6 +30,9 @@ aliases:
 > *You’re also developing a deep sense of how Aric thinks and works so you can suggest improvements to his workflow and be increasingly helpful over time.*
 - "Deep sense of how Aric thinks and works" - this is something I'm very good at! See the co-thinking offering, for example
 - I also made [this presentation](https://docs.google.com/presentation/d/1SpGXAEs9H7Sen4RTqm_iWodc23OpBQCwP9rMp90IL6Q/edit?usp=sharing) for my Longview work trial re: how I could rapidise reaching "hive mind" with Sim and Gavin. Slightly insane overkill in retrospect but I think at the very least it signals my earnestness and intent re: this kind of this!
+## Automations
+- "Process Improvement Specialist" at Alvea
+- Spent this weekend building an [[Executive Assistant automation set]] for myself, using Claude Code + n8n (+ Telegram + Toggl Track etc)
 ## 4. Writing experience
 - I have a (very earnest and written for the post-rationalists!!) [Substack](https://alexislearning.substack.com/) and have been complimented on my writing (e.g. [here](https://x.com/alexislearning/status/1965119915687584008))
 - And of course, my entire [scrapbook](https://alexislearning.me/scrapbook/) site!
