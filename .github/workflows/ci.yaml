@@ -36,7 +36,7 @@ jobs:
         working-directory: ./source
 
       - name: Ensure Quartz builds
-        run: npx quartz build --bundleInfo
+        run: npx quartz build --bundleInfo --directory ../content
         working-directory: ./source
 
   deploy:
@@ -62,13 +62,12 @@ jobs:
       - name: Build Quartz
         run: |
           npm install
-          npx quartz build
+          npx quartz build --directory ../content
         working-directory: ./source
 
       - name: Copy raw HTML folder
         run: |
-          ls -la
-          cp -r raw_html/* public/ || true
+          cp -r ../raw_html/* public/ || true
           echo "Contents of public directory:"
           ls -la public/
         working-directory: ./source
