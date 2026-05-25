@@ -48,6 +48,7 @@ Four automations running on a schedule plus an always-on inbound assistant.
 - Sends the summary to my phone and files the full review
 	- Thing to add in the future: have this be conversational, so it tells me what I did and then asks me if there was anything else, and then guides me through a weekly review process
 	- Probably also will want to be able to say "can't do this right now, ping me tomorrow at noon?"
+- ![[Pasted image 20260524095755.png]]
 ![[Pasted image 20260524095223.png]]
 
 ## How it's built
