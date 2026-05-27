@@ -1,5 +1,36 @@
+- ![[1779884638053.webp]]
+# What I've built
+## Software
+- **ExA (Executive Assistant automation stack)** (see [[Executive Assistant automation (n8n)]]) 
+	- n8n + Claude + Telegram bot I built in a weekend
+	- morning briefing (Gmail + Calendar + priorities → synthesised brief)
+	- always-on inbound router (text/voice → Whisper transcription → Claude classifies intent → routes to correct tool)
+	- evening recap (Toggl + GitHub commits + Todoist + Calendar → narrative summary), 
+	- weekly review (writes structured reflection to Obsidian vault)
+- Websites:
+	- Landing page (www.alexislearning.me), [co-thinking](https://cothinker-website.vercel.app/) site, etc
+- **Flow** — open-loops task manager (session mode, loop graph, plain JSON)
+- **Ithaca** — personal work + income tracker (static HTML, File System Access API)
+- **Schemagotchi** — schema therapy tracker, tamagotchi-style progression across 18 schemas
+- **Gymnasiarch** — daily practice tool (fitness + philosophy, ancient Greek model, local-first)
+## How I build
+- [BMAD](bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development) — agile framework + skill suite for AI-driven development; used for all of the above
+## Setup & workflow
+- **Warp** — preferred terminal for Claude Code (see below)
+- **Superwhisper** — dictate to Claude instead of typing
+- **MCP connections** — Google Calendar, Google Drive, Zoom (see below)
+- **Custom skills** — written my own + installed from GitHub
+- **CLAUDE.md config** — per-project + global instructions that shape Claude's behaviour
+- **Handover documents** — structured context files so Claude picks up mid-task cleanly
+- **Remote trigger** — can kick off Claude workflows away from my desk
+## Advanced
+- Sub-agents — spawn parallel agents for complex multi-step tasks
+- Parallel Warp tabs — multiple Claude instances running simultaneously
+- Web scraping — automated data collection
 
-# LLMs
+---
+
+# Tool stack
 ## Claude Code
 - I've paid for Google Gemini, ChatGPT, and Claude, over the past ~1 year
 - I'm currently a big fan of Claude (although I do miss Gemini's Deep Research)

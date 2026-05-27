@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Appendix - role subskills and my fit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Appendix - role subskills and my fit"
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Appendix - role subskills and my fit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Appendix - role subskills and my fit"
+              "title": "Outline"
             }
           }
         ],
@@ -170,10 +165,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6ed9c402e7ed059c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "content/index.md",
     "content/Appendix - role subskills and my fit.md",
+    "content/index.md",
     "content/Executive Assistant automation set.md",
     "content/My LLM usage.md",
     "content/Longview Philanthropy ExA finalist.md",
